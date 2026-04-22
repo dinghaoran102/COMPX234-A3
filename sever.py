@@ -32,4 +32,6 @@ def put(key self value):
                 return None
             value = self.space.pop(key)
             return value
+        elif cmd == "GET"
+
             
